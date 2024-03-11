@@ -30,5 +30,16 @@
       "view": "https://app.powerbi.com/view?r=eyJrIjoiMjVmZTZlZGMtZjNhNS00MWY3LTk4Y2UtNmRmZmE3NWZhZjBhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
       "code": "https://github.com/aagamdeolasi/youtube_stardom_dashboard.git"
     }
+  },
+
+    {
+    "name": "Data Analytics Project Essentials (Theory)",
+    "desc": "All my theoretical insights during the learning journey about the Data Analytics Project Essentials along with all the LinkedIn Post Links.",
+    "image": "dabg",
+    "category": "",
+    "links": {
+      "view": "https://github.com/aagamdeolasi/Data_Analytics_Theory.git",
+      "code": "https://github.com/aagamdeolasi/Data_Analytics_Theory.git"
+    }
   }
 ]
