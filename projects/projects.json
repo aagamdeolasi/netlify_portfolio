@@ -32,6 +32,17 @@
     }
   },
 
+  {
+    "name": "Lifestyle Snapshot Dashboard",
+    "desc": "The Lifestyle Snapshot Dashboard project is a comprehensive analysis conducted entirely in Microsoft Excel. It aims to illuminate the public interest landscape in 2024. By analyzing a comprehensive survey dataset, the project seeks to uncover the predominant preferences, hobbies, and emerging trends shaping societal dynamics.",
+    "image": "lifestyle_dashboard",
+    "category": "excel",
+    "links": {
+      "view": "https://aagamdeolasi.github.io/lifestyle_analysis/",
+      "code": "https://github.com/aagamdeolasi/lifestyle_analysis.git"
+    }
+  },
+
     {
     "name": "Data Analytics Project Essentials (Theory)",
     "desc": "All my theoretical insights during the learning journey about the Data Analytics Project Essentials along with all the LinkedIn Post Links.",
