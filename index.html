@@ -500,14 +500,14 @@
 
       function updateExperienceCounter() {
         const experienceCounterElement = document.getElementById("experience-counter");
-        const experience = document.getElementById("exp");
+        const experienceElement = document.getElementById("exp");
         const startDate = '2021-08-02'; // Start date of experience
         const gapStartDate = '2023-08-17'; // Start date of gap
         const gapEndDate = '2024-06-03'; // End date of gap
         const experience = calculateExperience(startDate, gapStartDate, gapEndDate);
 
         experienceCounterElement.innerHTML = `👉 Over <strong>${experience.years} Years & ${experience.months} Months</strong> of extensive IT industry experience, specializing in Web Development🌐 and Data Analysis.`
-        experience.innerHTML = `${experience.years} Yrs. & ${experience.months} Months`
+        experienceElement.innerHTML = `${experience.years} Yrs. & ${experience.months} Months`
       }
 
       updateExperienceCounter();
